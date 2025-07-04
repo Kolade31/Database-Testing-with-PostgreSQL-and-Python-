@@ -3,7 +3,7 @@ This repository contains a series of test cases designed to validate various fun
 ## Overview
 This project tests essential database operations using PostgreSQL and Python, focusing on user data management. Each test case checks specific conditions and constraints to ensure the database's performance and reliability.
 ## Test Cases
-1. **Query All Data from Database**: To verify that all user data present in the users table can be successfully queried.
+1. [**Query All Data from Database**](https://github.com/Kolade31/Database-Testing-with-PostgreSQL-and-Python-/tree/main/Test%20Case%201): To verify that all user data present in the users table can be successfully queried.
 2. **Retrieve User Information**: Ensure that user details can be fetched accurately from the database.
 3. **Finding Users with NULL Email**: Check for users who have not provided an email address.
 4. **Check for Duplicate USER IDs**: Verify that unique constraints on user IDs are enforced.
