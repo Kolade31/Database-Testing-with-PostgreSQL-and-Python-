@@ -6,7 +6,7 @@ This project tests essential database operations using PostgreSQL and Python, fo
 1. [**Query All Data from Database**](https://github.com/Kolade31/Database-Testing-with-PostgreSQL-and-Python-/tree/main/Test%20Case%201): To verify that all user data present in the users table can be successfully queried.
 2. [**Retrieve User Information**](https://github.com/Kolade31/Database-Testing-with-PostgreSQL-and-Python-/tree/main/Test%20Case%202): Ensure that user details can be fetched accurately from the database.
 3. [**Finding Users with NULL Email**](https://github.com/Kolade31/Database-Testing-with-PostgreSQL-and-Python-/tree/main/Test%20Case%203): Check for users who have not provided an email address.
-4. **Check for Duplicate USER IDs**: Verify that unique constraints on user IDs are enforced.
+4. [**Check for Duplicate USER IDs**](https://github.com/Kolade31/Database-Testing-with-PostgreSQL-and-Python-/tree/main/Test%20Case%204): Verify that unique constraints on user IDs are enforced.
 5. **Update User Email**: Test the functionality of updating a user's email address.
 6. **Finding Invalid Statuses**: Ensure that only valid user statuses are allowed.
 7. **Violates Foreign Key Restraint**: Confirm that attempting to delete a user with related records raises an appropriate error.
